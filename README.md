@@ -1,4 +1,4 @@
-# Network-Programming-1
+# Virtual-modem-communication
 Server-Client info exchange using virtual modem.
 
 The virtual modem was downloaded from the university's web page as a jar file and was imported in the project.
